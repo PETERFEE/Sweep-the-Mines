@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\fengh\OneDrive\Desktop\CLionProjects\MInesweeper -B C:\Users\fengh\OneDrive\Desktop\CLionProjects\MInesweeper\cmake-build-debug
+CMake Deprecation Warning at cmake-build-debug/_deps/sfml-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Configuring done (2.6s)
+-- Generating done (0.5s)
+-- Build files have been written to: C:/Users/fengh/OneDrive/Desktop/CLionProjects/MInesweeper/cmake-build-debug

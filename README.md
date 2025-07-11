@@ -1,6 +1,5 @@
 Name: Peter Feng
-Section: 10605
-UFL email: fengh@ufl.edu
+Email: fenghon000@gamil.com
 System: windows
 Compiler: g++
 SFML version: SFML 3
